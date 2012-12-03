@@ -1,9 +1,11 @@
 node-pathfinder
 ===============
+This module is a port of an [HTML5 MMORPG Project](http://ezelia.com/en)
 
 A native nodejs module implementing A* with JPS path finding algorithm.
 
 A* Algorithm is borrowed from a C implementation by [Ari Rahikkala](https://github.com/arirahikkala) 
+
 I just converted it to C++ and added NodeJS addon interface + node-gyp bindings
 
 
@@ -41,6 +43,7 @@ var result = findpath(grid, 5, 1, 5, 5);
 //print result
 console.log(result);
 ```
+
 
 
 [View Copyright notice of astar-jps C Library](https://github.com/arirahikkala/astar-jps)
