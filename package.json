@@ -1,6 +1,6 @@
 {  "name": "node-pathfinder"
  , "description":  "AStar Pathfinder with JPS"
- , "version":  "0.1.0"
+ , "version":  "0.1.1"
  , "author": "Alaa-eddine KADDOURI"
  , "keywords": ["AI", "pathfind", "pathfinder", "Artificial", "Intelligence", "A*", "AStar", "JPS"]
  , "homepage": "https://github.com/alaa-eddine/node-pathfinder"
