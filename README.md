@@ -1,6 +1,6 @@
 node-pathfinder
 ===============
-This module is a port of an [HTML5 MMORPG Project](http://ezelia.com/en)
+This module is a part of an [HTML5 MMORPG Project](http://ezelia.com/en)
 
 A native nodejs module implementing A* with JPS path finding algorithm.
 
